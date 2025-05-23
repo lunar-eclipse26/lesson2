@@ -1,0 +1,5 @@
+print("hello how are you")
+print("my name is rip_lunar \n erherhehrhvrh")
+print("shikanokonokonoko",5 )
+print("umm idk what to put here",end="E")
+print("still didnt know what to put")
